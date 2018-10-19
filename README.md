@@ -2,14 +2,14 @@ Plastiq Challenge
 
 Create image from Dockerfile
 
-# docker build -t hello-world .
+ docker build -t hello-world .
 
 Run image
 
-# docker run -d -p 80:80 hello-world
+ docker run -d -p 80:80 hello-world
 
 Test connection
 
-# curl localhost
+ curl localhost
 
 
