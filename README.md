@@ -1,4 +1,4 @@
-##Plastiq Challenge
+# Plastiq Challenge
 
 - Create image from Dockerfile
 
